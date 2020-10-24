@@ -9,3 +9,5 @@ This is a SnapDragon 850 SoC model, and these files may also be helpful for simi
 请查看本项目“Releases”，下载zip压缩包并解压，然后用“设备管理器”或“DISM”安装，全部是inf安装文件。
 
 这是一个骁龙850 SoC的机型，这些文件对类似机型可能也会有帮助。
+
+search-keywords: SDM850 ARM64
