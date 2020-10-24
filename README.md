@@ -10,4 +10,4 @@ This is a SnapDragon 850 SoC model, and these files may also be helpful for simi
 
 这是一个骁龙850 SoC的机型，这些文件对类似机型可能也会有帮助。
 
-search-keywords: SDM850 ARM64
+search-keywords: SDM850 ARM64 Qualcomm
